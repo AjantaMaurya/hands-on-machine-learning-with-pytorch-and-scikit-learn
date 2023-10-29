@@ -1,1 +1,1 @@
-# hands-on-machine-learning-with-Pytorch-and-scikit-learn
+# Hands-on-machine-learning-with-Pytorch-and-scikit-learn
